@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PDF Reader</string>
+    <string name="pick_file">pick file</string>
+    <string name="toast_pick_file_error">"toast pick file error "</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="menu_home">menu home</string>
+    <string name="menu_gallery">menu gallarey</string>
+    <string name="menu_slideshow">menu slide</string>
+</resources>
